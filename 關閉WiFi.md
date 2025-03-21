@@ -19,8 +19,8 @@ sudo systemctl disable autohotspot
 使用`sudo` 指令會要求輸入系統密碼（`raspberry`），輸入完成後會出現以下畫面
 ![Image](https://github.com/user-attachments/assets/efb85045-0889-475e-abe9-1bb914fb2f0d)
 
-### 回到瀏覽器，進入`ratos.local` 重啟Raspberry Pi
+### 4. 回到瀏覽器，進入`ratos.local` 重啟Raspberry Pi
 ![Image](https://github.com/user-attachments/assets/7a2b42b7-f5ac-427e-9cf8-75fd5b81fdb3)
 
 
-### 重啟後，使用瀏覽器確 `ratos.local`可連接至列印機
+### 5. 重啟後，使用瀏覽器確 `ratos.local`可連接至列印機，並確認`RatOS` WiFi訊號不再提示。
