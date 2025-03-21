@@ -24,3 +24,4 @@ sudo systemctl disable autohotspot
 
 
 ### 5. 重啟後，使用瀏覽器確 `ratos.local`可連接至列印機，並確認`RatOS` WiFi訊號不再提示。
+重啟後，會在 Initializing 畫面維持較久，稍等3分鐘前後確認是否可以進入操作頁面。
